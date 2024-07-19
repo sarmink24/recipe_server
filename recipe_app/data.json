@@ -1,0 +1,60 @@
+{
+    "desserts": [
+      {
+        "id": "3",
+        "name": "Chocolate Vanilla Pie",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut lacus rhoncus, vulputate urna aliquet, semper ex.hjgfjhgkyfjg",
+        "price": "75",
+        "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2018%2F04%2F13%2F729302_cropped.jpg&w=426&h=285&c=sc&poi=face&q=85"
+      },
+      {
+        "id": "5",
+        "name": "Chocolate Chip Cookies ",
+        "description": "Chocolate ipsum dolor ",
+        "price": "55.99",
+        "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2019%2F12%2Fbest-chocolate-chip-cookies.jpg&w=300&h=201&c=sc&poi=face&q=85"
+      },
+      {
+        "id": "c6b2",
+        "name": "Midnight Velvet Cake",
+        "description": "Dive into decadence with the Midnight Velvet Cake, a luxurious treat that marries the rich darkness of velvety chocolate with the delicate sweetness of mascarpone cream. ",
+        "price": "6",
+        "imageUrl": "https://amycakesbakes.com/wp-content/uploads/2022/01/Moist-Mini-Red-Velvet-Cake-by-Amycakes-Bakes.jpg"
+      },
+      {
+        "id": "902d",
+        "name": "Purple Cake With Figs",
+        "price": "12",
+        "description": "A Purple Cake With Figs is a choice for all when it comes to birthday parties. If the birthday person has a love for figs and dark color, send them this cake on WhatsApp with their name on the top. With this, they will know how eagerly you are waiting to meet them and cut an actual post-birthday cake.",
+        "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHE0y8U3BE21M8PJzvv6rUKWOvyCbeDKeVOXh99eZSyHIEhQ8r"
+      },
+      {
+        "id": "b7d4",
+        "name": "Buckeye Brownies",
+        "description": "If you love buckeyes (or Reese’s Cups), you’ll go nuts for these thick, fudgy buckeye brownies. They’re full of rich peanut butter and chocolate flavor with a soft, chewy brownie underneath. They are — dare I say it — pure decadence in a pan.",
+        "price": "25",
+        "imageUrl": "https://insanelygoodrecipes.com/wp-content/uploads/2021/09/Sweet-Buckeye-Brownies-with-Peanut-Butter-and-Decadent-Chocolate.jpg"
+      },
+      {
+        "id": "80de",
+        "name": "Peanut Butter Cookies",
+        "description": "When it comes to easy dessert recipes, you can’t go wrong with homemade cookies. Especially homemade cookies that require only three ingredients! That’s all you’ll need to make these buttery soft peanut butter cookies. Just three ingredients, specifically butter, peanut butter, and sugar.",
+        "price": "28",
+        "imageUrl": "https://insanelygoodrecipes.com/wp-content/uploads/2021/10/Soft-and-Chewy-Peanut-Butter-Cookies.jpg"
+      },
+      {
+        "id": "471b",
+        "name": "White Chocolate Blondies",
+        "description": "I bet you can’t stick with eating just one of these white chocolate blondies. Chewy, fudgy, caramel-y, and chocolatey, they’re divine. One bite and you’ll fall head over heels.",
+        "price": "77",
+        "imageUrl": "https://insanelygoodrecipes.com/wp-content/uploads/2024/03/Stack-of-White-Chocolate-Blondies.jpg"
+      },
+      {
+        "id": "5e6b",
+        "name": "Amish Caramel Corn",
+        "description": "Freshly popped popcorn gets coated in a rich, sweet, and buttery caramel glaze. Add some slivered almonds for an extra crunch.",
+        "price": "565655",
+        "imageUrl": "https://insanelygoodrecipes.com/wp-content/uploads/2022/06/Caramel-Popcorn-Close-up.jpg"
+      }
+    ]
+  }
